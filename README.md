@@ -11,7 +11,6 @@ i'm currenly learning<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B14FYArk/B14FYArk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B14FYArk/B14FYArk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/B14FYArk/B14FYArk/output/github-snake.svg" />
 </picture>
 
