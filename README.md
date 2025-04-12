@@ -1,4 +1,3 @@
-# Me
 # 💫 About Me:
 i'm currenly learning<br>
 
